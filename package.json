@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  },
+  "name": "api-for-world-wise",
+  "description": "",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "Cole Liang",
+  "license": "ISC"
+}
